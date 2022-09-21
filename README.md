@@ -1,1 +1,1 @@
-# Vanilla-JavaScript-stopwatch
+# Vanilla JavaScript stopwatch
